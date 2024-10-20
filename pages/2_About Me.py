@@ -57,7 +57,7 @@ team_member_layout(
 
 )
 
-st.markdown("<br><br><br>", unsafe_allow_html=True)
+st.markdown("<br>", unsafe_allow_html=True)
 
 # Add some spacing for the closing statement
 st.markdown("<br><br>", unsafe_allow_html=True)
