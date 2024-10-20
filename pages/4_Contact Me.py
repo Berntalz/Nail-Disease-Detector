@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header(":mailbox: GET IN TOUCH WITH US!")
+st.header(":mailbox: GET IN TOUCH WITH ME!")
 
 contact_form = """
 <form action="https://formsubmit.co/aman0218.deep@gmail.com" method="POST">
