@@ -59,8 +59,5 @@ team_member_layout(
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-# Add some spacing for the closing statement
-st.markdown("<br><br>", unsafe_allow_html=True)
-
 # Closing statement
 st.write("I hope you liked the effort for this model and show some love ❤️.")
